@@ -1,5 +1,9 @@
 {
   "name": "udagram-api",
+  "engines": {
+    "node": "14.17.0",
+    "npm": "6.14.13"
+  },
   "version": "2.0.0",
   "description": "this is for backend",
   "main": "server.js",
